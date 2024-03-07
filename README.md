@@ -12,6 +12,6 @@ link to tutorial - [link](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QS
     - [3_matrices](https://github.com/toheedakhtar/linear_algebra/blob/main/linear_algebra/3_matrices.ipynb)
 
 - linear_algebra_II
-    - 1_Eigendecomposition
-    - 2_matrix_ops_ml
-    - regression_mp_Pseudoinverse
+    - [1_Eigendecomposition](https://github.com/toheedakhtar/linear_algebra/blob/main/linear_algebra_II/1_Eigendecomposition.ipynb)
+    - [2_matrix_ops_ml](https://github.com/toheedakhtar/linear_algebra/blob/main/linear_algebra_II/2_matrix_ops_ml.ipynb)
+    - [regression_mp_Pseudoinverse](https://github.com/toheedakhtar/linear_algebra/blob/main/linear_algebra_II/regression_mp_Pseudoinverse.ipynb)
