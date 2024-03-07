@@ -1,5 +1,5 @@
 # Linear Algebra
-Contains linear algebra notes and code in pyTorch and python.
+Contains linear algebra notes and code in python, PyTorch and tensorflow .
 
 ### Tutorial - Linear ALgebra by Jon Krohn
 link to tutorial - [link](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a)
