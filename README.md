@@ -7,9 +7,9 @@ link to tutorial - [link](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QS
 #### Structure of repo 
 
 - linear_algebra
-    - 1_intro_to_Algebra
-    - 2_tensors
-    - 3_matrices
+    - [1_intro_to_Algebra](https://github.com/toheedakhtar/linear_algebra/blob/main/linear_algebra/1_intro_to_Algebra.ipynb)
+    - [2_tensors](https://github.com/toheedakhtar/linear_algebra/blob/main/linear_algebra/2_tensors.ipynb) (start)
+    - [3_matrices](https://github.com/toheedakhtar/linear_algebra/blob/main/linear_algebra/3_matrices.ipynb)
 
 - linear_algebra_II
     - 1_Eigendecomposition
